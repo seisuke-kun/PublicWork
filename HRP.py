@@ -1,5 +1,3 @@
-# On 20151227 by MLdP <lopezdeprado@lbl.gov>
-# Hierarchical Risk Parity
 import matplotlib.pyplot as mpl
 import scipy.cluster.hierarchy as sch,random,numpy as np,pandas as pd
 #------------------------------------------------------------------------------
