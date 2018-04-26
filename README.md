@@ -1,3 +1,4 @@
 # PublicWork
-●2018/3/23 Bitcoinの各取引所間の裁定取引ができるサンプルコード作成  
-●2018/4/18 HRPモデルのsample実装
+●Hamilton–Jacobi–Bellman equationを解くsampleをアップ  
+●VPIN(Volume Synchronized Probability of Informed Trading)のsampleをアップ
+●HRP(Hierarchical Risk Parity)によるPortfolio最適化のsampleをアップ
